@@ -20,11 +20,11 @@ Currently, I am fully committed to engaging in projects that will aid me in my j
 ## [SPA] ¿Qué hago? 👩‍💻
 Actualmente, estoy totalmente comprometida a participar en proyectos que me ayudarán en mi viaje como programadora; y, además, potenciará mis habilidades y conocimientos como desarrolladora.
 
-##  ¿Hacia dónde me dirijo? 🚀
-Mi ambición es involucrarme cada vez más en la industria de la tecnología, participar en múltiples proyectos y aplicar constantemente un nivel de comprensión, empatía, lógica y precisión que es crucial para crear experiencias de usuarios funcionales e intuitivas.
-
 ## [ENG] Where I am heading to? 🚀
 My ambition is to become increasingly involved in the technology industry, participate in multiple projects, and consistently apply a level of comprehension, empathy, logic and precision that is crucial for creating functional and intuitive user experiences.
+
+## [SPA] ¿Hacia dónde me dirijo? 🚀
+Mi ambición es involucrarme cada vez más en la industria de la tecnología, participar en múltiples proyectos y aplicar constantemente un nivel de comprensión, empatía, lógica y precisión que es crucial para crear experiencias de usuarios funcionales e intuitivas.
 
 <h2 align="left" id="macropower-tech">Favourite Tech 🦾</h2>
 
