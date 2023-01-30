@@ -156,4 +156,7 @@ Mi ambición es involucrarme cada vez más en la industria de la tecnología, pa
 <a href="https://www.linkedin.com/in/alissa-gamarra" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:alissa.gamarra@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
 </div>
