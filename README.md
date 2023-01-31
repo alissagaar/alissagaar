@@ -12,8 +12,6 @@ Why the transition to Front End Development? My inclination in engaging both the
 
 ¿Por qué la transición al Desarrollo Front End? Mi inclinación en involucrar tanto el hemisferio analítico como el creativo de mi cerebro; y, en ese sentido, Desarrollo Front End + UX | UI Design terminó siendo la combinación ideal para mí.
 
-Es por eso que quiero sumergirme cada vez más en el mundo IT, contribuir a varios proyectos y poner siempre sobre la mesa un nivel de empatía y atención al detalle que es esencial para hacer que las experiencias de usuario sean funcionales e intuitivas.
-
 ## [ENG] What I do? 👩‍💻
 Currently, I am fully committed to engaging in projects that will aid me in my journey as a programmer; and, in addition, it will enhance my skills and knowledge as a developer.
 
